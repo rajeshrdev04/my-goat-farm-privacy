@@ -1,0 +1,5 @@
+# app-ads.txt for My Goat Farm
+# Must be served at the root of the domain listed as the app's website in
+# Google Play Console: https://yourdomain.com/app-ads.txt
+
+google.com, pub-3877337102485946, DIRECT, f08c47fec0942fa0
